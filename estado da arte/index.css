@@ -4,15 +4,35 @@
     width: 100%;
     margin-top: 5%;
 }
+
+
  .container{
     margin-left: 5%;
  }
- .link ul{
-    color: white;
- }
+ 
 
  footer{
     background-color:#343a40;
     text-align: center;
-    margin-top: 2%;
+    margin-top: 5%;
  }
+ 
+.tipografia{
+   text-align: center;
+   margin-top: 6%;
+}
+
+.carousel-inner{
+   margin-top: 6%;
+   height: 500px;
+}
+
+.linha{
+   margin-top: 6%;
+}
+
+.table{
+   text-align: center;
+   margin-top: 3%;
+   margin-left: 3%;
+}
